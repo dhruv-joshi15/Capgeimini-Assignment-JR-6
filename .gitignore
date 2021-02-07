@@ -1,0 +1,17 @@
+.metadata
+.sonarlint
+
+
+#Assignment#
+HelloWorld/.settings
+HelloWorld/bin
+HelloWorld/.classpath
+HelloWorld/.project
+
+
+
+#Practice#
+EmployeeManagement/.settings
+EmployeeManagement/bin
+EmployeeManagement/.classpath
+EmployeeManagement/.project
